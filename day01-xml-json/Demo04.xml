@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books xmlns="http://www.bigdata.com/book"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.bigdata.com/book books.xsd"
+>
+    <!--
+       1.xmlns(xml namespace):代表默认命名空间,默认命名空间只能有一个
+         引用schema约束中的targetNamespace,引用哪个schema约束,就写对应的targetNamespace
+         命名空间一般使用域名作为值,保证整个互联网唯一
+       2.xmlns:别名 : 带别名的命名空间
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         引用是一个官方约束,我们引用它目的是为了使用里面的属性:schemaLocation来指明当前xml引用的schema约束的位置
+       3.xsi:schemaLocation="约束的命名空间 约束文件位置"
+         schemaLocation是为了指明books.xsd的位置
+    -->
+    <book id="12">
+        <name>java从入门到放弃</name>
+        <author>无名</author>
+        <price>13.99</price>
+    </book>
+    <book id="13">
+        <name>java编程思想</name>
+        <author>无名2</author>
+        <price>99.99</price>
+    </book>
+</books>

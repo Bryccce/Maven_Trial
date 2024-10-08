@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98ae19e8-4dd6-4111-ac01-cb39dc3cc073" name="Changes" comment="第一次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\IDEARepository" />
+        <option name="userSettingsFile" value="E:\DevelopTools\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ir4U3aTe7XgUY7oafQZLM3qqeH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.DOM4JTest.executor": "Run",
+    "JUnit.JSONTest01.testJsonToList.executor": "Run",
+    "JUnit.JSONTest01.testJsonToObject.executor": "Run",
+    "JUnit.JSONTest01.testListToJson.executor": "Run",
+    "JUnit.JSONTest01.testMapToJson.executor": "Run",
+    "JUnit.JSONTest01.testObjectToJson.executor": "Run",
+    "JUnit.JSONTest02.testJsonToList.executor": "Run",
+    "JUnit.JSONTest02.testJsonToObject.executor": "Run",
+    "JUnit.JSONTest02.testListToJson.executor": "Run",
+    "JUnit.JSONTest02.testMapToJson.executor": "Run",
+    "JUnit.JSONTest02.testObjectToJson.executor": "Run",
+    "JUnit.LoadTest.test (1).executor": "Run",
+    "JUnit.LoadTest.test.executor": "Run",
+    "JUnit.ResultUtilsTest.testResult.executor": "Run",
+    "JUnit.SMSTest01.showAllStudents.executor": "Run",
+    "JUnit.SMSTest02.showAllStudents.executor": "Run",
+    "JUnit.SMSTest02.writeRankedStudentsToFile.executor": "Run",
+    "JUnit.SMSTest04.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.day02-maven-javase [clean].executor": "Run",
+    "Maven.day02-maven-javase [compile].executor": "Run",
+    "Maven.day02-maven-javase [install].executor": "Run",
+    "Maven.day02-maven-javase [package].executor": "Run",
+    "Maven.day02-maven-javase [test].executor": "Run",
+    "Maven.day02-maven-ssm [compile].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/bryccce/Desktop/Java_Full_Stack/JavaWeb核心基础及案例实践/第02章_Maven实战/code/biwujiaoyu-javaee-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.27578717",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\test\resources" />
+      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\main\resources" />
+      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\main\java" />
+      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-sms\src\test\resources" />
+      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-sms\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.biwu" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SMSTest04.loadStudentsFromFile02">
+    <configuration name="LoadTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-maven-ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.biwu.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.LoadTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMSTest01.showAllStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-maven-ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.biwu.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest01" />
+      <option name="METHOD_NAME" value="showAllStudents" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMSTest04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-maven-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.biwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.biwu" />
+      <option name="MAIN_CLASS_NAME" value="edu.biwu.SMSTest04" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMSTest04.loadStudentsFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-maven-ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.biwu.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest04" />
+      <option name="METHOD_NAME" value="loadStudentsFromFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMSTest04.loadStudentsFromFile02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02-maven-ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.biwu.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest04" />
+      <option name="METHOD_NAME" value="loadStudentsFromFile02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SMSTest04.loadStudentsFromFile02" />
+        <item itemvalue="JUnit.SMSTest04.loadStudentsFromFile" />
+        <item itemvalue="JUnit.LoadTest.test (1)" />
+        <item itemvalue="JUnit.SMSTest01.showAllStudents" />
+        <item itemvalue="JUnit.SMSTest04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ae19e8-4dd6-4111-ac01-cb39dc3cc073" name="Changes" comment="" />
+      <created>1720235392889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720235392889</updated>
+      <workItem from="1720235393533" duration="3293000" />
+      <workItem from="1720247074794" duration="13627000" />
+      <workItem from="1720341932017" duration="16202000" />
+      <workItem from="1720617495027" duration="3608000" />
+      <workItem from="1720700098775" duration="273000" />
+      <workItem from="1720700394386" duration="198000" />
+      <workItem from="1720700629833" duration="13316000" />
+      <workItem from="1720797897356" duration="3087000" />
+      <workItem from="1728363538669" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<!ELEMENT products (product+) >
+<!ELEMENT product (name,price,brand) >
+<!ELEMENT name  (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+
+
+<!ATTLIST product pid ID #REQUIRED
+color CDATA #IMPLIED>
+
+<!ATTLIST brand name CDATA #REQUIRED>

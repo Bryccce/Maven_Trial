@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!--模块的坐标:groupID + artifactId + version 唯一确定一个模块-->
+  <groupId>edu.biwu</groupId>
+  <artifactId>day02-maven-javase</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <!--打包方式-->
+  <packaging>jar</packaging>
+
+  <name>day02-maven-javase</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <!--指定编写的java源码使用的版本-->
+    <maven.compiler.source>21</maven.compiler.source>
+    <!--指定java编译器的版本-->
+    <maven.compiler.target>21</maven.compiler.target>
+  </properties>
+
+  <!--引用的依赖-->
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+   <finalName>maven-javase</finalName>
+  </build>
+</project>

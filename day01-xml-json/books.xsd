@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.bigdata.com/book"
+        elementFormDefault="qualified">
+    <!--
+      1.xmlns:schema约束需要引入一个官方的命名空间http://www.w3.org/2001/XMLSchema
+      schema中的属性都来自官方命名空间
+
+      2.targetNamespace:规定以下声明的所有标签来自http://www.bigdata.com/book
+        targetNamespace将来可以被xml引用
+    -->
+    <element name="books">
+        <complexType>
+            <sequence minOccurs="1" maxOccurs="unbounded">
+                <element name="book">
+                    <complexType>
+                        <sequence>
+                             <element name="name" type="string"></element>
+                             <element name="author" type="string"></element>
+                             <element name="price" type="double"></element>
+                        </sequence>
+                        <attribute name="id" type="int" use="required"></attribute>
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+  XML文件引入dtd文件
+    1.引入本地的dtd文件
+      <!DOCTYPE 根元素 SYSTEM "DTD文件的相对路径或绝对路径">
+    2.引入互联网的dtd文件
+      <!DOCTYPE 根元素 PUBLIC "DTD文件名称" "DTD文件的URL">
+-->
+<!DOCTYPE products SYSTEM "products.dtd">
+<products>
+    <product pid="编号001">
+        <name>联想笔记本</name>
+        <price>3999</price>
+        <brand name="Lenovo"></brand>
+    </product>
+    <product pid="编号002" color="red">
+        <name>华硕笔记本</name>
+        <price>4999</price>
+        <brand name="ASUS"></brand>
+    </product>
+</products>
