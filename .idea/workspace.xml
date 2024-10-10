@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Day04-Javaweb:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ae19e8-4dd6-4111-ac01-cb39dc3cc073" name="Changes" comment="第一次提交" />
+    <list default="true" id="fdd2cec3-034f-43f3-bfe4-36c7af6d8688" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,90 +26,59 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" environment="test" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\IDEARepository" />
-        <option name="userSettingsFile" value="E:\DevelopTools\maven\conf\settings.xml" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../LocalRepository" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.9.9/conf/settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="jdkForImporter" value="21" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="21" />
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2ir4U3aTe7XgUY7oafQZLM3qqeH" />
+  <component name="ProjectId" id="2mWBNQoMw5V0EozzGG6CHzdi4TO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.DOM4JTest.executor": "Run",
-    "JUnit.JSONTest01.testJsonToList.executor": "Run",
-    "JUnit.JSONTest01.testJsonToObject.executor": "Run",
-    "JUnit.JSONTest01.testListToJson.executor": "Run",
-    "JUnit.JSONTest01.testMapToJson.executor": "Run",
-    "JUnit.JSONTest01.testObjectToJson.executor": "Run",
-    "JUnit.JSONTest02.testJsonToList.executor": "Run",
-    "JUnit.JSONTest02.testJsonToObject.executor": "Run",
-    "JUnit.JSONTest02.testListToJson.executor": "Run",
-    "JUnit.JSONTest02.testMapToJson.executor": "Run",
-    "JUnit.JSONTest02.testObjectToJson.executor": "Run",
-    "JUnit.LoadTest.test (1).executor": "Run",
-    "JUnit.LoadTest.test.executor": "Run",
-    "JUnit.ResultUtilsTest.testResult.executor": "Run",
-    "JUnit.SMSTest01.showAllStudents.executor": "Run",
-    "JUnit.SMSTest02.showAllStudents.executor": "Run",
-    "JUnit.SMSTest02.writeRankedStudentsToFile.executor": "Run",
-    "JUnit.SMSTest04.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.day02-maven-javase [clean].executor": "Run",
-    "Maven.day02-maven-javase [compile].executor": "Run",
-    "Maven.day02-maven-javase [install].executor": "Run",
-    "Maven.day02-maven-javase [package].executor": "Run",
-    "Maven.day02-maven-javase [test].executor": "Run",
-    "Maven.day02-maven-ssm [compile].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/bryccce/Desktop/Java_Full_Stack/JavaWeb核心基础及案例实践/第02章_Maven实战/code/biwujiaoyu-javaee-project",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/bryccce/Desktop/Java_Full_Stack/JavaWeb核心基础及案例实践/JavaEE_Project/Day04-Javaweb/src/main/webapp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/bryccce/Desktop/Java_Full_Stack/JavaWeb核心基础及案例实践/JavaEE_Project/Day01-xml-json/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15234375",
-    "project.structure.side.proportion": "0.27578717",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\test\resources" />
-      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\main\resources" />
-      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-ssm\src\main\java" />
-      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-sms\src\test\resources" />
-      <recent name="G:\OneDrive - JianXin\课程研发\JavaEE\code\biwujiaoyu-javaee-project\day02-maven-sms\src\main\java" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="edu.biwu" />
+      <recent name="$PROJECT_DIR$/Day04-Javaweb/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/Day01-xml-json/lib" />
+      <recent name="$PROJECT_DIR$/Day01-xml-json/src" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -112,125 +86,225 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SMSTest04.loadStudentsFromFile02">
-    <configuration name="LoadTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day02-maven-ssm" />
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.30">
+    <configuration name="Dom4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dom4j.Dom4jTest" />
+      <module name="Day01-xml-json" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="PATTERN" value="OrderDataToJson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.biwu.test" />
-      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.LoadTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SMSTest01.showAllStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day02-maven-ssm" />
+    <configuration name="StudentParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW01.StudentParser" />
+      <module name="Day01-xml-json" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="PATTERN" value="HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.biwu.test" />
-      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest01" />
-      <option name="METHOD_NAME" value="showAllStudents" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SMSTest04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day02-maven-sms" />
+    <configuration name="TestResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day01-xml-json" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.biwu.*" />
+          <option name="PATTERN" value="OrderDataToJson.ResultUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.biwu" />
-      <option name="MAIN_CLASS_NAME" value="edu.biwu.SMSTest04" />
+      <option name="PACKAGE_NAME" value="Dom4j.ResultUtils" />
+      <option name="MAIN_CLASS_NAME" value="OrderDataToJson.ResultUtils.TestResult" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SMSTest04.loadStudentsFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day02-maven-ssm" />
+    <configuration name="TestResult.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day01-xml-json" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.biwu.test.*" />
+          <option name="PATTERN" value="OrderDataToJson.ResultUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.biwu.test" />
-      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest04" />
-      <option name="METHOD_NAME" value="loadStudentsFromFile" />
+      <option name="PACKAGE_NAME" value="Dom4j.ResultUtils" />
+      <option name="MAIN_CLASS_NAME" value="OrderDataToJson.ResultUtils.TestResult" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SMSTest04.loadStudentsFromFile02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day02-maven-ssm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.biwu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.biwu.test" />
-      <option name="MAIN_CLASS_NAME" value="edu.biwu.test.SMSTest04" />
-      <option name="METHOD_NAME" value="loadStudentsFromFile02" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="Tomcat 10.1.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Day04-Javaweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Day04" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1548f313-f645-4876-ac26-4f0348234d73" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57145" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Day04-Javaweb:war exploded" />
+        </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Dom4jTest" />
+      <item itemvalue="Application.StudentParser" />
+      <item itemvalue="JUnit.TestResult" />
+      <item itemvalue="JUnit.TestResult.test01" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.30" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SMSTest04.loadStudentsFromFile02" />
-        <item itemvalue="JUnit.SMSTest04.loadStudentsFromFile" />
-        <item itemvalue="JUnit.LoadTest.test (1)" />
-        <item itemvalue="JUnit.SMSTest01.showAllStudents" />
-        <item itemvalue="JUnit.SMSTest04" />
+        <item itemvalue="Application.StudentParser" />
+        <item itemvalue="JUnit.TestResult.test01" />
+        <item itemvalue="JUnit.TestResult" />
+        <item itemvalue="Application.Dom4jTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98ae19e8-4dd6-4111-ac01-cb39dc3cc073" name="Changes" comment="" />
-      <created>1720235392889</created>
+      <changelist id="fdd2cec3-034f-43f3-bfe4-36c7af6d8688" name="Changes" comment="" />
+      <created>1727182411573</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1720235392889</updated>
-      <workItem from="1720235393533" duration="3293000" />
-      <workItem from="1720247074794" duration="13627000" />
-      <workItem from="1720341932017" duration="16202000" />
-      <workItem from="1720617495027" duration="3608000" />
-      <workItem from="1720700098775" duration="273000" />
-      <workItem from="1720700394386" duration="198000" />
-      <workItem from="1720700629833" duration="13316000" />
-      <workItem from="1720797897356" duration="3087000" />
-      <workItem from="1728363538669" duration="374000" />
+      <updated>1727182411573</updated>
+      <workItem from="1727182412569" duration="19039000" />
+      <workItem from="1727381222975" duration="8336000" />
+      <workItem from="1727390177815" duration="2181000" />
+      <workItem from="1728358015552" duration="408000" />
+      <workItem from="1728422819845" duration="36000" />
+      <workItem from="1728524665748" duration="7756000" />
     </task>
+    <task id="LOCAL-00001" summary="Update javaWeb Tomcat">
+      <option name="closed" value="true" />
+      <created>1728584024926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728584024926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update javaWeb Tomcat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update javaWeb Tomcat" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

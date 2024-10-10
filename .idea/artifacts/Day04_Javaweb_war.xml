@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="Day04-Javaweb:war">
+    <output-path>$PROJECT_DIR$/Day04-Javaweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Day04-Javaweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Day04-Javaweb.war">
+      <element id="artifact" artifact-name="Day04-Javaweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" external-system-id="Maven" name="Day04-Javaweb:war exploded">
+    <output-path>$PROJECT_DIR$/Day04-Javaweb/target/Day04-Javaweb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>Day04-Javaweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Day04-Javaweb" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Day04-Javaweb/target/Day04-Javaweb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Day04-Javaweb/web/Web" />
+    </root>
+  </artifact>
+</component>
